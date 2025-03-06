@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\MINED\\Desktop\\Asp\\4845148OneDimension\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3CDF3AC-A163-4B10-896D-AE8B3CC5AB81}|4845148OneDimension\\4845148OneDimension.csproj|C:\\Users\\MINED\\Desktop\\Asp\\4845148OneDimension\\4845148onedimension\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3CDF3AC-A163-4B10-896D-AE8B3CC5AB81}|4845148OneDimension\\4845148OneDimension.csproj|c:\\users\\mined\\desktop\\asp\\4845148onedimension\\4845148onedimension\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3CDF3AC-A163-4B10-896D-AE8B3CC5AB81}|4845148OneDimension\\4845148OneDimension.csproj|solutionrelative:4845148onedimension\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3CDF3AC-A163-4B10-896D-AE8B3CC5AB81}|4845148OneDimension\\4845148OneDimension.csproj|c:\\users\\mined\\desktop\\asp\\4845148onedimension\\4845148onedimension\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C3CDF3AC-A163-4B10-896D-AE8B3CC5AB81}|4845148OneDimension\\4845148OneDimension.csproj|C:\\Users\\MINED\\Desktop\\Asp\\4845148OneDimension\\4845148onedimension\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C3CDF3AC-A163-4B10-896D-AE8B3CC5AB81}|4845148OneDimension\\4845148OneDimension.csproj|solutionrelative:4845148onedimension\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "4845148OneDimension\\OneDmsString.aspx.cs",
               "ToolTip": "C:\\Users\\MINED\\Desktop\\Asp\\4845148OneDimension\\4845148OneDimension\\OneDmsString.aspx.cs",
               "RelativeToolTip": "4845148OneDimension\\OneDmsString.aspx.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T02:07:28.009Z"
+              "WhenOpened": "2025-03-06T02:07:28.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,9 +49,10 @@
               "RelativeDocumentMoniker": "4845148OneDimension\\OneDmsString.aspx",
               "ToolTip": "C:\\Users\\MINED\\Desktop\\Asp\\4845148OneDimension\\4845148OneDimension\\OneDmsString.aspx",
               "RelativeToolTip": "4845148OneDimension\\OneDmsString.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-06T02:04:55.655Z"
+              "WhenOpened": "2025-03-06T02:04:55.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +62,7 @@
               "RelativeDocumentMoniker": "4845148OneDimension\\CategoryUseArraySessionVariables.aspx.cs",
               "ToolTip": "C:\\Users\\MINED\\Desktop\\Asp\\4845148OneDimension\\4845148OneDimension\\CategoryUseArraySessionVariables.aspx.cs",
               "RelativeToolTip": "4845148OneDimension\\CategoryUseArraySessionVariables.aspx.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T02:04:12.721Z",
               "EditorCaption": ""
